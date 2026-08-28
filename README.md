@@ -3,7 +3,7 @@ Hi👋 I'm Stephen Afije, Software Engineer & LLM Architecture Designer, Curious
 <h2>Skills</h2>
 💡 Python, React, HTML, PHP, JavaScript<br>
 💡 Google Search Console, Analytics, Ahrefs, Bing Console, Microsoft Clarity<br>
-🌱 ML, Mobile App Development, Softwares
+🌱 ML, Mobile App, Web, Softwares, 
 
 
 
