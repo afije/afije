@@ -1,4 +1,4 @@
-Hi👋 I'm Stephen Afije, a Junior Developer, market researcher, online instructor, WordPress web designer & SEO specialist. Curious about space & rocket science.
+Hi👋 I'm Stephen Afije, Software Engineer & LLM Architecture Designer, Curious about Space & Rocket Science Curious about space & rocket science.
 
 <h2>Skills</h2>
 💡 HTML, CSS, PHP, JavaScript, CRM, Email marketing, Content marketing, Keyword research<br>
